@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "declaration": false,
+        "outDir": "./dist/",
+        "sourceMap": true,
+        "noImplicitAny": true,
+        "allowJs": true,        
+        "jsx": "react"
+    }
+}
